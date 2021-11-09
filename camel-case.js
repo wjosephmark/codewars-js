@@ -1,3 +1,5 @@
+//ADD SPACES TO CAMEL CASED STRINGS
+
 function solution(string) {
     let splitString = string.split('')
     var newStringArray = []
