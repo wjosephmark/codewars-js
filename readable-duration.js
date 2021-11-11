@@ -194,9 +194,9 @@ function formatDuration (seconds) {
     }
 
     if(response == ''){
-        return('now')
+        return 'now'
     }else{
-        return(response)
+        return response
     }
 }
 
